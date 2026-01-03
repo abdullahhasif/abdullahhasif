@@ -9,4 +9,4 @@ I have been honored with multiple national & international recognitions includin
 - Winner Asia Pacific ICT Alliance
 
 Connect with me 
-LinkedIn: https://www.linkedin.com/in/abdullah-asif/
+<a href="https://www.linkedin.com/in/abdullah-asif/">Abdullah | LinkedIn</a>

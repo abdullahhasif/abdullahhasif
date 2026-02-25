@@ -7,6 +7,7 @@ I have been honored with multiple national & international recognitions includin
 - Winner HBL P@SHA ICT Awards
 - Winner AI Wrapper Competition
 - Winner Asia Pacific ICT Alliance
+- Global Finalist Intelligent Planet Hackathon (KFUPM x Google Cloud)
 
 Connect with me 
 <a href="https://www.linkedin.com/in/abdullah-asif/">Abdullah | LinkedIn</a>
